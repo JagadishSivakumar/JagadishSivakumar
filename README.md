@@ -1,22 +1,18 @@
 <h3 align="center">👋 Hello! I'm Jagadish.</h3>
 
 <p align="center">
-  <a target="_blank" href="https://www.kaggle.com/jagadish13">Kaggle</a> •
-  <a target="_blank" href="https://twitter.com/JagadishSiva">Twitter</a> •
-  <a target="_blank" href="https://www.linkedin.com/in/jagadish-sivakumar/">LinkedIN</a>
+  <a href="https://www.kaggle.com/jagadish13">Kaggle</a> •
+  <a href="https://twitter.com/JagadishSiva">Twitter</a> •
+  <a href="https://www.linkedin.com/in/jagadish-sivakumar/">LinkedIN</a>
 </p>
 
 ---
 
-##### Blog posts
+##### Who am I
 
-<!--START_SECTION:posts-->
-* [On &quot;lurking&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-lurking&#x2F;)
-* [Probot App or GitHub Action? (Updated)](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;probot-app-or-github-action-v2&#x2F;)
-* [Build your own Probot](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;build-your-own-probot&#x2F;)
-* [New features of GitHub Actions v2](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;new-features-of-github-actions&#x2F;)
-* [Run your GitHub Actions workflow on a schedule](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;scheduled-actions&#x2F;)
-<!--END_SECTION:posts-->
+An innovator by nature, who wants to break the conventional ways of web designing. Exposure to fields like Design to Technology and Psychology changed my views of seeing the world. I love seeing technology in terms of design and interaction. This vision reflects in all of my projects and ideas.
+
+Experimenting and exploring is my way of life. In short, I do what I love and I love what I do.
 
 ---
 
