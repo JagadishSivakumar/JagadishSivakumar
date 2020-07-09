@@ -22,5 +22,5 @@ Currently, I'm the head of MegaCraft Technologies and a freelance web developer 
 
 #### Get in touch
 
-📧  <span> jagadish.sivakumar1@gmail.com </span>   🌏  <span> jagadishsivakumar.in  </span>
+<a href="mailto:jagadish.sivakumar1@gmail.com"> 📧  <span> jagadish.sivakumar1@gmail.com </span> </a>  •  <a href="jagadishsivakumar.in"> 🌏  <span> jagadishsivakumar.in  </span> </a>
 
