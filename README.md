@@ -1,17 +1,71 @@
-<p>
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-  <samp>
-    :wave: Hi! I design for GitHub.
-    <br>My current work focuses on enabling all of y'all to
-      <br><em>receive recognition</em> for the amazing things that
-    <br>you do in your software communities :sparkles:<br><br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
-  </samp>
+<h3 align="center">👋 Hello! I'm Jason.</h3>
+
+<p align="center">
+  <a href="https://jasonet.co">Blog</a> •
+  <a href="https://twitter.com/JasonEtco">Twitter</a>
 </p>
 
-<details>
-  <summary><b>:telescope: 2020 goal</b></summary>
-  I want to make a little game this year.<br>I'm currently working on a small gameboy game with <a href="https://github.com/tfgrimes">@tfgrimes</a> using <a href="https://github.com/chrismaltby/gb-studio">GBStudio.dev</a>, which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
-</details>
+---
+
+##### Blog posts
+
+<!--START_SECTION:posts-->
+* [On &quot;lurking&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-lurking&#x2F;)
+* [Probot App or GitHub Action? (Updated)](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;probot-app-or-github-action-v2&#x2F;)
+* [Build your own Probot](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;build-your-own-probot&#x2F;)
+* [New features of GitHub Actions v2](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;new-features-of-github-actions&#x2F;)
+* [Run your GitHub Actions workflow on a schedule](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;scheduled-actions&#x2F;)
+<!--END_SECTION:posts-->
+
+---
+
+##### Guestbook ([JasonEtco/readme-guestbook](https://github.com/JasonEtco/readme-guestbook))
+
+<a href="https://readme-guestbook.now.sh">Sign it!</a>
+
+<!--START_SECTION:guestbook-->
+[@swinton](https://github.com/swinton) says:
+
+> Hey! [Neat](https://youtu.be/dQw4w9WgXcQ)! ❤️
+
+<sup>07/09/2020</sup>
+
+
+---
+
+[@eugeneyan](https://github.com/eugeneyan) says:
+
+> Sweet!
+
+<sup>07/09/2020</sup>
+
+
+---
+
+[@heromayank2](https://github.com/heromayank2) says:
+
+> Super Awesome 📝
+
+
+<sup>07/09/2020</sup>
+
+
+---
+
+[@m1guelpf](https://github.com/m1guelpf) says:
+
+> This is really cool!
+
+<sup>07/09/2020</sup>
+
+
+---
+
+[@ralphiz](https://github.com/ralphiz) says:
+
+> Wow, so cool!!
+
+<sup>07/09/2020</sup>
+
+<!--END_SECTION:guestbook-->
+<!--GUESTBOOK_LIST [{"name":"swinton","message":"Hey! [Neat](https://youtu.be/dQw4w9WgXcQ)! ❤️","date":"07/09/2020"},{"name":"eugeneyan","message":"Sweet!","date":"07/09/2020"},{"name":"heromayank2","message":"Super Awesome 📝\n","date":"07/09/2020"},{"name":"m1guelpf","message":"This is really cool!","date":"07/09/2020"},{"name":"ralphiz","message":"Wow, so cool!!","date":"07/09/2020"}]-->
