@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hello! I'm Jagadish.</h3>
 
 <p align="center">
-  <a href="https://www.kaggle.com/jagadish13">Kaggle</a> •
-  <a href="https://twitter.com/JagadishSiva">Twitter</a> •
-  <a href="https://www.linkedin.com/in/jagadish-sivakumar/">LinkedIN</a>
+  <a target="_blank" href="https://www.kaggle.com/jagadish13">Kaggle</a> •
+  <a target="_blank" href="https://twitter.com/JagadishSiva">Twitter</a> •
+  <a target="_blank" href="https://www.linkedin.com/in/jagadish-sivakumar/">LinkedIN</a>
 </p>
 
 ---
