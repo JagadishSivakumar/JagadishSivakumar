@@ -20,6 +20,8 @@ Experimenting and exploring is my way of life. In short, I do what I love and I 
 
 Currently, I'm the head of MegaCraft Technologies and a freelance web developer who wants to break the conventional ways of web designing. Before that, I was a front-end developer in Start 247, Cavadium Retail, and National Institute of Ocean Technology (NIOT)
 
+---
+
 ### Get in touch
 
 <span> 📧 </span> <a href="mailto:jagadish.sivakumar1@gmail.com"> jagadish.sivakumar1@gmail.com </a>  •  <span> 🌏 </span> <a href="http://www.jagadishsivakumar.in/"> jagadishsivakumar.in </a>
