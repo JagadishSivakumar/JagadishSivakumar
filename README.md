@@ -10,7 +10,7 @@
 
 ### Who am I
 
-![Jagadish Banner](jagadish_banner.jpg)
+![Jagadish Banner](https://raw.githubusercontent.com/JagadishSivakumar/JagadishSivakumar/master/jagadish_banner.jpg)
 
 An innovator by nature, who wants to break the conventional ways of web designing. Exposure to fields like Design to Technology and Psychology changed my views of seeing the world. I love seeing technology in terms of design and interaction. This vision reflects in all of my projects and ideas.
 
