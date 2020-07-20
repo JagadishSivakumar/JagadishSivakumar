@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.kaggle.com/jagadish13">Kaggle</a> •
   <a href="https://twitter.com/JagadishSiva">Twitter</a> •
-  <a href="https://www.linkedin.com/in/jagadish-sivakumar/">LinkedIN</a>
+  <a href="https://codepen.io/jagadishsivakumar">CodePen</a>
 </p>
 
 ---
@@ -25,5 +25,4 @@ Currently, I'm the head of MegaCraft Technologies and a freelance web developer 
 ### Get in touch
 
 * <span> Personal site: </span> <a href="http://www.jagadishsivakumar.in/"> https://jagadishsivakumar.in/ </a>  
-* <span> CodePen: </span> <a href="http://www.jagadishsivakumar.in/"> https://codepen.io/jagadishsivakumar </a>
-
+* <span> LinkedIN: </span> <a href="https://www.linkedin.com/in/jagadish-sivakumar">linkedin.com/in/jagadish-sivakumar</a>
